@@ -1,4 +1,6 @@
-b = str(input())
-a = len(b)
-print(b)
+a = dict()
+d = {23, 45, 67, 89, 27}
+a[1] = d
+c = {65, 20, 22 ,37, 29}
+a[2] = c
 print(a)
